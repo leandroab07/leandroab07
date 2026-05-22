@@ -1,13 +1,11 @@
 <div align="center">
 
-<h2>Olá, sou Leandro 👋</h2>
+<h2>Leandro</h2>
 <p>Pesquisador em Bioinformática · NGHM – UFES</p>
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandroab07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/leandroab07)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroab07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/leandroab07)
+[![GitHub Streak](https://streak-stats.demolab.com?user=leandroab07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://github.com/leandroab07)
 
 <br/>
 
@@ -22,16 +20,8 @@
 
 <br/>
 
-🌿 [NGHM Site](https://github.com/leandroab07/NGHM-site) &nbsp;·&nbsp; 🌱 Sylvanea
+🌿 [NGHM Site](https://github.com/leandroab07/NGHM-site) &nbsp;·&nbsp; 🌱 [Sylvanea](https://github.com/leandroab07/sylvanea)
 
 📧 lesafe@gmail.com · leandronghm@gmail.com
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandroab07/leandroab07/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leandroab07/leandroab07/output/github-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/leandroab07/leandroab07/output/github-snake.svg"/>
-</picture>
 
 </div>
