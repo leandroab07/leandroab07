@@ -5,10 +5,6 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leandroab07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://github.com/leandroab07)
-
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
