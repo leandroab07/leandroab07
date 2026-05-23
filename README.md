@@ -16,7 +16,7 @@
 
 <br/>
 
-🌿 [NGHM Site](https://github.com/leandroab07/NGHM-site) &nbsp;·&nbsp; 🌱 [Sylvanea](https://github.com/leandroab07/sylvanea)
+🧬 [NGHM Site](https://github.com/leandroab07/NGHM-site) &nbsp;·&nbsp; 🌱 [Sylvanea](https://github.com/leandroab07/sylvanea)
 
 📧 lesafe@gmail.com · leandronghm@gmail.com
 
